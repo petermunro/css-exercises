@@ -152,6 +152,9 @@ Implement your answer.
 <footer>...</footer>
 ```
 
+> There's a partial answer to this [here](https://codepen.io/pete/pen/rxRgvX)
+> (with a different HTML source).
+
 ---
 
 ## Example - Justify Content
