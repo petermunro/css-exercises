@@ -49,7 +49,7 @@ Add these styles:
 The `flex` property says “give each box 1 proportion of the whole space”.
 Let's give Box 4 _two_ proportions:
 
-1. Create a new rule for class `box4`, and give it a property `flex: 4;`.
+1. Create a new rule for class `box4`, and give it a property `flex: 2;`.
    See how this affects the items in the browser.
 
 ---
@@ -80,7 +80,7 @@ Let's give Box 4 _two_ proportions:
    1. `row`
    1. `column`
    1. `row-reverse`
-   1. `row-reverse`
+   1. `column-reverse`
 
 ---
 
