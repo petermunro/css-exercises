@@ -76,7 +76,7 @@ Let's give Box 4 _two_ proportions:
 
 ## Exercise - Changing Orientation
 
-1. Experiment with changing the container's orientation to each of the four values:
+1. Experiment with changing the container's orientation (`flex-direction`) to each of the four values:
    1. `row`
    1. `column`
    1. `row-reverse`
