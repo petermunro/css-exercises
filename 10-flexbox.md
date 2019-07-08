@@ -14,6 +14,8 @@ Place the following HTML in a file:
 </div>
 ```
 
+> Here's a [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/) to help you out.
+
 ## Exercise: Getting Started with FlexBox - Part 2
 
 Add these styles:
